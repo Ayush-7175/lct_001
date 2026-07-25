@@ -1,22 +1,14 @@
 class Solution {
 public:
     int maxProduct(int n) {
-        
-        vector<int> v;
-        
-        while(n>0)
-        { 
-            
-            int nigga =n%10;
-            v.push_back(nigga);
-    
-            n=n/10;
-            
+        int arr[10]; // Max 10 digits for a 32-bit int
+        int i = 0;
+        while (n > 0) {
+            arr[i] = n % 10;
+            i++;
+            n /= 10;
         }
-        sort(v.begin(),v.end());
-        int a=v.size();
-        int ans=v[a-1]*v[a-2];
-        return ans;
-        
+        sort(arr, arr + i); // Pass pointer to start and end
+        return arr[i - 1] * arr[i - 2];
     }
 };
