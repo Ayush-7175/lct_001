@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayush-7175/lct_001/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayush-7175/lct_001/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/Ayush-7175/lct_001/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
