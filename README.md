@@ -38,4 +38,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush-7175/lct_001/tree/master/3536-maximum-product-of-two-digits) |
+## Linked List
+|  |
+| ------- |
+| [0328-odd-even-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
