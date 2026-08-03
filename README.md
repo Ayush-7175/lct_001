@@ -21,15 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayush-7175/lct_001/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush-7175/lct_001/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayush-7175/lct_001/tree/master/0076-minimum-window-substring) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## String
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayush-7175/lct_001/tree/master/0076-minimum-window-substring) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -42,4 +45,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0328-odd-even-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0328-odd-even-linked-list) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Counting
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
