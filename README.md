@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ayush-7175/lct_001/tree/master/0011-container-with-most-water) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ayush-7175/lct_001/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-7175/lct_001/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-7175/lct_001/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ayush-7175/lct_001/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Sorting
 |  |
