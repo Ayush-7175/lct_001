@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-7175/lct_001/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-7175/lct_001/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3861-minimum-capacity-box](https://github.com/Ayush-7175/lct_001/tree/master/3861-minimum-capacity-box) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayush-7175/lct_001/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush-7175/lct_001/tree/master/3536-maximum-product-of-two-digits) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
