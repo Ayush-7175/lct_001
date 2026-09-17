@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-7175/lct_001/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-7175/lct_001/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-7175/lct_001/tree/master/3483-unique-3-digit-even-numbers) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush-7175/lct_001/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-7175/lct_001/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/Ayush-7175/lct_001/tree/master/3861-minimum-capacity-box) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3875-construct-uniform-parity-array-i) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayush-7175/lct_001/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush-7175/lct_001/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ayush-7175/lct_001/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ayush-7175/lct_001/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
