@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayush-7175/lct_001/tree/master/0076-minimum-window-substring) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayush-7175/lct_001/tree/master/3498-reverse-degree-of-a-string) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Binary Search
 |  |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Ayush-7175/lct_001/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-7175/lct_001/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3498-reverse-degree-of-a-string](https://github.com/Ayush-7175/lct_001/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
