@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-7175/lct_001/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-7175/lct_001/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush-7175/lct_001/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-7175/lct_001/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3861-minimum-capacity-box](https://github.com/Ayush-7175/lct_001/tree/master/3861-minimum-capacity-box) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-7175/lct_001/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-7175/lct_001/tree/master/3483-unique-3-digit-even-numbers) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Ayush-7175/lct_001/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-7175/lct_001/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ayush-7175/lct_001/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0328-odd-even-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Combinatorics
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ayush-7175/lct_001/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ayush-7175/lct_001/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ayush-7175/lct_001/tree/master/3498-reverse-degree-of-a-string) |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Recursion
 |  |
 | ------- |
@@ -155,4 +159,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Ordered Set
+|  |
+| ------- |
+| [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
