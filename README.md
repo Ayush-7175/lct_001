@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Ayush-7175/lct_001/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Ayush-7175/lct_001/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayush-7175/lct_001/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ayush-7175/lct_001/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-7175/lct_001/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-7175/lct_001/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/Ayush-7175/lct_001/tree/master/0055-jump-game) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ayush-7175/lct_001/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-7175/lct_001/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Sliding Window
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-7175/lct_001/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ayush-7175/lct_001/tree/master/0055-jump-game) |
+| [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ayush-7175/lct_001/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayush-7175/lct_001/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Simulation
 |  |
