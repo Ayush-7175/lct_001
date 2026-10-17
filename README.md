@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Ayush-7175/lct_001/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Ayush-7175/lct_001/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Ayush-7175/lct_001/tree/master/0014-longest-common-prefix) |
 | [0055-jump-game](https://github.com/Ayush-7175/lct_001/tree/master/0055-jump-game) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-7175/lct_001/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ayush-7175/lct_001/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Ayush-7175/lct_001/tree/master/0076-minimum-window-substring) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1021-remove-outermost-parentheses) |
@@ -199,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayush-7175/lct_001/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ayush-7175/lct_001/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
