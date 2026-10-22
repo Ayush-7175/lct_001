@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Ayush-7175/lct_001/tree/master/0076-minimum-window-substring) |
+| [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-7175/lct_001/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayush-7175/lct_001/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Ayush-7175/lct_001/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0328-odd-even-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-7175/lct_001/tree/master/0011-container-with-most-water) |
+| [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 ## Greedy
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ayush-7175/lct_001/tree/master/0014-longest-common-prefix) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
