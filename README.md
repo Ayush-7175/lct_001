@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ayush-7175/lct_001/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush-7175/lct_001/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayush-7175/lct_001/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayush-7175/lct_001/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-7175/lct_001/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayush-7175/lct_001/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3861-minimum-capacity-box](https://github.com/Ayush-7175/lct_001/tree/master/3861-minimum-capacity-box) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ayush-7175/lct_001/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayush-7175/lct_001/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
 |  |
 | ------- |
