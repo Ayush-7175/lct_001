@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayush-7175/lct_001/tree/master/0162-find-peak-element) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-7175/lct_001/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayush-7175/lct_001/tree/master/0875-koko-eating-bananas) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ayush-7175/lct_001/tree/master/0231-power-of-two) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Ayush-7175/lct_001/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Ayush-7175/lct_001/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1051-height-checker](https://github.com/Ayush-7175/lct_001/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-7175/lct_001/tree/master/1331-rank-transform-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ayush-7175/lct_001/tree/master/2089-find-target-indices-after-sorting-array) |
