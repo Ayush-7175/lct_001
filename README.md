@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Ayush-7175/lct_001/tree/master/0231-power-of-two) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-7175/lct_001/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-7175/lct_001/tree/master/1331-rank-transform-of-an-array) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ayush-7175/lct_001/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-7175/lct_001/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-7175/lct_001/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
@@ -243,4 +246,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
