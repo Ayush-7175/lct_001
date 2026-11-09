@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayush-7175/lct_001/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-7175/lct_001/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayush-7175/lct_001/tree/master/0162-find-peak-element) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-7175/lct_001/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayush-7175/lct_001/tree/master/0875-koko-eating-bananas) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ayush-7175/lct_001/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Ayush-7175/lct_001/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayush-7175/lct_001/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Two Pointers
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-7175/lct_001/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0876-middle-of-the-linked-list) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-7175/lct_001/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
@@ -247,4 +251,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
