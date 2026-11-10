@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ayush-7175/lct_001/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ayush-7175/lct_001/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Ayush-7175/lct_001/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3693-climbing-stairs-ii](https://github.com/Ayush-7175/lct_001/tree/master/3693-climbing-stairs-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ayush-7175/lct_001/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ayush-7175/lct_001/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Ayush-7175/lct_001/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Ayush-7175/lct_001/tree/master/0055-jump-game) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ayush-7175/lct_001/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ayush-7175/lct_001/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3693-climbing-stairs-ii](https://github.com/Ayush-7175/lct_001/tree/master/3693-climbing-stairs-ii) |
 ## Sliding Window
 |  |
 | ------- |
