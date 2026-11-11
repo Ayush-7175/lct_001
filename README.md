@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/Ayush-7175/lct_001/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Ayush-7175/lct_001/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/Ayush-7175/lct_001/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Ayush-7175/lct_001/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Ayush-7175/lct_001/tree/master/1051-height-checker) |
 | [1260-shift-2d-grid](https://github.com/Ayush-7175/lct_001/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Ayush-7175/lct_001/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Ayush-7175/lct_001/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Ayush-7175/lct_001/tree/master/0922-sort-array-by-parity-ii) |
 | [1051-height-checker](https://github.com/Ayush-7175/lct_001/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/Ayush-7175/lct_001/tree/master/1331-rank-transform-of-an-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-7175/lct_001/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Ayush-7175/lct_001/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/Ayush-7175/lct_001/tree/master/0922-sort-array-by-parity-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ayush-7175/lct_001/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
