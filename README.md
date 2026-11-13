@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ayush-7175/lct_001/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Ayush-7175/lct_001/tree/master/0162-find-peak-element) |
+| [0179-largest-number](https://github.com/Ayush-7175/lct_001/tree/master/0179-largest-number) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ayush-7175/lct_001/tree/master/0540-single-element-in-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Ayush-7175/lct_001/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/Ayush-7175/lct_001/tree/master/0058-length-of-last-word) |
 | [0076-minimum-window-substring](https://github.com/Ayush-7175/lct_001/tree/master/0076-minimum-window-substring) |
+| [0179-largest-number](https://github.com/Ayush-7175/lct_001/tree/master/0179-largest-number) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayush-7175/lct_001/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/Ayush-7175/lct_001/tree/master/0179-largest-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ayush-7175/lct_001/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0905-sort-array-by-parity](https://github.com/Ayush-7175/lct_001/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ayush-7175/lct_001/tree/master/0922-sort-array-by-parity-ii) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ayush-7175/lct_001/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Ayush-7175/lct_001/tree/master/0055-jump-game) |
+| [0179-largest-number](https://github.com/Ayush-7175/lct_001/tree/master/0179-largest-number) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/Ayush-7175/lct_001/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayush-7175/lct_001/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Ayush-7175/lct_001/tree/master/3723-maximize-sum-of-squares-of-digits) |
