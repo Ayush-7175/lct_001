@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/Ayush-7175/lct_001/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-7175/lct_001/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0876-middle-of-the-linked-list) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Ayush-7175/lct_001/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Ayush-7175/lct_001/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/Ayush-7175/lct_001/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Ayush-7175/lct_001/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/Ayush-7175/lct_001/tree/master/0905-sort-array-by-parity) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ayush-7175/lct_001/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0234-palindrome-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Ayush-7175/lct_001/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
@@ -252,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Ayush-7175/lct_001/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ayush-7175/lct_001/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ayush-7175/lct_001/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
